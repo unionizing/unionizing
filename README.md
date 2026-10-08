@@ -16,12 +16,8 @@
     <img src="https://komarev.com/ghpvc/?username=unionizing&color=yellow" alt="Profile views" />
   </a>
   <br/>
+  <img src="./yellow5.png" />
   <br/>
-  <img src="https://pixelsafari.neocities.org/dividers/kawaii3.jpg" />
-  <br/>
-</p>
-<div align="center">
-
-${\textsf{I primarily write Luau for Roblox and experiment w/ reverse engineering on the platform. Some past work includes Minecraft plugins, clients, mods and Discord bots.}}$
-
-</div>
+  ${\textsf{I primarily write Luau for Roblox and experiment reverse engineering on the platform.}}$ <br/   >
+  ${\textsf{Some past work includes Minecraft plugins, clients, mods and Discord bots.}}$
+</p> 
