@@ -22,6 +22,6 @@
 </p>
 <div align="center">
 
-${\textsf{I primarily write Luau for Roblox and experiment w/ reverse engineering on the platform. Some past work includes Minecraft plugins, clients, mods \& Discord bots.}}$
+${\textsf{I primarily write Luau for Roblox and experiment w/ reverse engineering on the platform. Some past work includes Minecraft plugins, clients, mods and Discord bots.}}$
 
 </div>
